@@ -5,6 +5,9 @@
 <br>
 <br>
 
+## Contact Information
+- Email: [edwin@circuitsperformers.com](edwin@circuitsperformers.com)
+
 ## Links:
 - LinkedIn: [https://www.linkedin.com/in/constructiveinterference/](https://www.linkedin.com/in/constructiveinterference/)
 - GitHub: [https://github.com/inceptionev](https://github.com/inceptionev)
