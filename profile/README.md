@@ -20,6 +20,7 @@
   - 1kV Power Supply and Management PCB
 - 2014: Automated Chemical Synthesizer
   - Controller PCB
+<br>
 ![Synthego](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-Synthego.jpg)
 <br>
 
@@ -27,6 +28,7 @@
 - 2016-Present: BATFish Remotely-Operated Survey Submersible
   - Actuator control servo drives
   - Onsite deployment support
+<br>
 ![MARE](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-MARE.jpg)  
 <br>
 
@@ -37,6 +39,7 @@
   - Pneumatic design
 - 2021: Powered P100 Respirator (PAPR)
   - Complete design: mechanical, electrical, pneumatic
+<br>
 ![RespiraWorks](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-RespiraWorks.jpg)
 <br> 
 
@@ -44,12 +47,14 @@
 - 2019-Preset: Remote Arctic Methane Flaring Station
   - Rugged Arctic gas sensing/satcom (Iridium) PCB
   - Thermoelectric power generation and capactitor management PCB
+<br>
 ![Frost Methane Labs](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-FrostMethaneLabs.jpg) 
 <br>
 
 ## Virgin Hyperloop
 - 2019-2020: HyperloopOne Vehicle
   - Modular vehicle controller PCB  
+<br>
 ![Virgin Hyperloop](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-VirginHyperloopOne.jpg)  
 <br>
 
@@ -57,6 +62,7 @@
 - 2019: Triton Remotely-Operated Submersible
   - Mainboard tesbed
   - Network transceiver
+<br>
 ![OpenROV](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-OpenROV.jpg)  
 <br>
 
@@ -70,6 +76,7 @@
 - 2018: Dragon II
   - Above electronics plus:
   - LiFePO4 high voltage frontend
+<br>
 ![Deepflight](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-Deepflight.jpg)
 <br>
 
@@ -79,6 +86,7 @@
   - Proprietary high-performance 900MHz SDR design
   - Ultra-low-SNR signal recovery algorithm
   - Naive (blind) distrbuted beamforming phase-synchronization algorithm
+<br>
 ![Signal Laboratories](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-SigLabs.jpg)
 <br>
 
@@ -92,5 +100,6 @@
   - Dragon: Network Switch
   - Falcon 1: Experimental Satellite Communications Radio
   - All Vehicles: Sensor Input, Valve Control, Thermocouple, Thrust Vector, and Resistive Thermal Device PCB designs.
+<br>
 ![SpaceX](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-SpaceX.jpg)
   
