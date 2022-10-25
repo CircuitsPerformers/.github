@@ -1,6 +1,8 @@
 # Circuits Performers is the consulting LLC of Edwin Chiu
 ### Offering Mixed-Signal Electrical Design and Layout Consulting in Aerospace, Marine, and Sciencific fields
-![I'm Edwin and I'm an Underwater Circuits Performer](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-CircuitsPerformers.jpg)
+
+<br>
+<br>
 
 ## Contact Information
 - Email: [edwin@circuitsperformers.com](edwin@circuitsperformers.com)
