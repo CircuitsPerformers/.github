@@ -2,10 +2,11 @@
 ### Offering Mixed-Signal Electrical Design and Layout Consulting in Aerospace, Marine, and Sciencific fields
 
 <br>
-<br>
 
 ## Contact Information
 - Email: [edwin@circuitsperformers.com](edwin@circuitsperformers.com)
+- LinkedIn: [https://www.linkedin.com/in/constructiveinterference/](https://www.linkedin.com/in/constructiveinterference/)
+- GitHub: [https://github.com/inceptionev](https://github.com/inceptionev)
 
 ## Typical Consulting Workflow
 - Introductory meeting to understand project and confirm match between skills and project needs.
@@ -16,10 +17,6 @@
 - Hardware prototype, bringup, and testing, if needed.
 - Final deliverables sent to client for approval.
 - Continuing maintenance or field support agreements, if needed.
-
-## Links:
-- LinkedIn: [https://www.linkedin.com/in/constructiveinterference/](https://www.linkedin.com/in/constructiveinterference/)
-- GitHub: [https://github.com/inceptionev](https://github.com/inceptionev)
 
 ## Experience:
 
