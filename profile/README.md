@@ -1,6 +1,6 @@
 ![I'm Edwin and I'm an Underwater Circuits Performer](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-CircuitsPerformers.jpg)
 # Circuits Performers is the consulting LLC of Edwin Chiu
-### Offering Mixed-Signal Electrical and Layout Consulting in Aerospace, Marine, and Sciencific fields
+### Offering Mixed-Signal Electrical Design and Layout Consulting in Aerospace, Marine, and Sciencific fields
 
 <br>
 <br>
@@ -20,7 +20,8 @@
   - 1kV Power Supply and Management PCB
 - 2014: Automated Chemical Synthesizer
   - Controller PCB
-<br>
+<br> 
+
 ![Synthego](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-Synthego.jpg)
 <br>
 
@@ -28,7 +29,8 @@
 - 2016-Present: BATFish Remotely-Operated Survey Submersible
   - Actuator control servo drives
   - Onsite deployment support
-<br>
+<br> 
+
 ![MARE](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-MARE.jpg)  
 <br>
 
@@ -40,6 +42,7 @@
 - 2021: Powered P100 Respirator (PAPR)
   - Complete design: mechanical, electrical, pneumatic
 <br>
+
 ![RespiraWorks](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-RespiraWorks.jpg)
 <br> 
 
@@ -48,6 +51,7 @@
   - Rugged Arctic gas sensing/satcom (Iridium) PCB
   - Thermoelectric power generation and capactitor management PCB
 <br>
+
 ![Frost Methane Labs](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-FrostMethaneLabs.jpg) 
 <br>
 
@@ -55,6 +59,7 @@
 - 2019-2020: HyperloopOne Vehicle
   - Modular vehicle controller PCB  
 <br>
+
 ![Virgin Hyperloop](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-VirginHyperloopOne.jpg)  
 <br>
 
@@ -63,6 +68,7 @@
   - Mainboard tesbed
   - Network transceiver
 <br>
+
 ![OpenROV](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-OpenROV.jpg)  
 <br>
 
@@ -77,6 +83,7 @@
   - Above electronics plus:
   - LiFePO4 high voltage frontend
 <br>
+
 ![Deepflight](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-Deepflight.jpg)
 <br>
 
@@ -87,6 +94,7 @@
   - Ultra-low-SNR signal recovery algorithm
   - Naive (blind) distrbuted beamforming phase-synchronization algorithm
 <br>
+
 ![Signal Laboratories](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-SigLabs.jpg)
 <br>
 
@@ -101,5 +109,6 @@
   - Falcon 1: Experimental Satellite Communications Radio
   - All Vehicles: Sensor Input, Valve Control, Thermocouple, Thrust Vector, and Resistive Thermal Device PCB designs.
 <br>
+
 ![SpaceX](https://github.com/CircuitsPerformers/.github/raw/main/profile/images/500px-SpaceX.jpg)
   
